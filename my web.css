@@ -1,0 +1,39 @@
+.heading{
+    position: absolute;
+    top: 25px;
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+    margin-left: 32%;
+    color: rgb(100, 16, 16);
+
+}
+
+.quicksearch{
+   position: absolute;
+   top:10px;
+}
+
+.searchbutton{
+    font-size: 15px;
+    margin-left: 350%;
+    width: 35%;
+    background-color: rgb(5, 247, 247);
+    height: 25px;
+    border-radius: 20px;
+}
+
+.searchbar{
+    margin-left: 390%;
+    width: 95% ;
+    height: 20px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.navbar{
+    position: absolute;
+    top: 10px;
+    padding: 10px;
+    margin-left: 20px;
+}
